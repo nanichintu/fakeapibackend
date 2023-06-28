@@ -1,0 +1,54 @@
+{
+  "Employees": [
+    {
+      "name": "kannaya",
+      "role": "ui/ux designer",
+      "salary": "54654",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "honey",
+      "role": "cloud developer",
+      "salary": 25000
+    },
+    {
+      "name": "sravan",
+      "role": "ui developer",
+      "salary": "78",
+      "id": 5
+    },
+    {
+      "name": "sravan",
+      "role": "developer",
+      "salary": "789154",
+      "id": 6
+    }
+  ],
+  "Employes": [
+    {
+      "name": "pradeep",
+      "role": "backend developer",
+      "salary": 70000,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "nikil",
+      "role": "ui/ux designer",
+      "salary": 72000
+    },
+    {
+      "id": 3,
+      "name": "nikil",
+      "role": "product developer",
+      "salary": 7000
+    },
+    {
+      "id": 4,
+      "name": "ramana",
+      "role": "sales developer",
+      "salary": 7000
+    }
+  ]
+}
